@@ -41,6 +41,26 @@
 - <!-- Comentario -->
 -
 
+## Atributos HTML
+- href="enlace" <!-- Ejemplo: <a href="https://github.com/nicolasgentile">Mi GitHub</a> -->
+- src="ruta de imagen" <!-- Ejemplo: <img src="perfil.jpg" alt="Foto de Nicolas"> -->
+- alt="descripcion"
+- type="tipo de input" <!-- Ejemplo: <input type="email" placeholder="Tu email"> -->
+- placeholder="texto de ayuda"
+
+## Rutas de archivos HTML
+- <img src="imagenes/foto.jpg"> <!-- Suponienedo que exista una carmeta llamada "imagenes" -->
+- <a href="ejercicios.html">Ver ejercicios</a> <!-- Enlazar otra pagina del sitio, suponiendo que  exista "ejercicios.html"-->
+- 
+
+## HTML semántico
+- <header>
+- <nav>
+- <main>
+- <section>
+- <article>
+- <footer>
+
 ## Flujo basico git
 - git add . 
 - git commit -m "mensaje del cambio"
